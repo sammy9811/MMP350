@@ -1,0 +1,15 @@
+H1 {color: black;
+    text-align: center;
+    font-size: 100px;
+    font-family:monospace;
+   }
+
+BODY{background-color:burlywood;
+background-size: cover;}
+p { color: black;
+    font-size: 70px;
+  font-family:monospace;
+  text-align: center;}
+h2 {font-size: 50px;
+  font-family: monospace;
+    text-align: center;}
